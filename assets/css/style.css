@@ -69,7 +69,7 @@ a:hover {
 }
 
 .service-box{
-  height: 250px;
+  height: 180px;
 }
 
 .box-shadow-a, .button:hover {
@@ -805,9 +805,9 @@ a:hover {
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
-  padding: 2.5rem 1.3rem;
+  padding: 1rem 1.3rem;
   border-radius: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 .service-box:hover .ico-circle {
@@ -820,6 +820,10 @@ a:hover {
   margin-bottom: 1rem;
   color: #1e1e1e;
 }
+.service-ico {
+  margin-bottom: 1.4rem;
+}
+
 .service-box .ico-circle {
   transition: all 500ms ease;
   display: inline-flex;
