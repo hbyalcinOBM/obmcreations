@@ -876,7 +876,7 @@ a:hover {
 # Portfolio
 --------------------------------------------------------------*/
 .work-box {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
@@ -886,8 +886,8 @@ a:hover {
 }
 
 .work-img {
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   display: flex;
   justify-content: center;
   overflow: hidden;
@@ -895,12 +895,12 @@ a:hover {
 }
 .work-img img {
   transition: all 1s;
-  height: 200px;
+  height: 180px;
 
 }
 
 .work-content {
-  padding: 1rem 3% 1rem 4%;
+  padding: 0.5rem 3% 1rem 4%;
 }
 .work-content .w-more {
   color: #4e4e4e;
